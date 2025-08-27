@@ -25,4 +25,4 @@ Running Steps:
 
 5. TrainBERT-Main.ipynb
 
-Please if you find a way to improve it
+Please, let me know if you find a way to improve it
