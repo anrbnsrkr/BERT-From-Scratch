@@ -12,12 +12,15 @@ Finally, cleaning the corpa in a better way may give much better results.
 Running Steps:
 
 #Cleaning + Split
+
 1. CorpaClining.ipynb
 2. To_Sent.ipynb
 3. NSPSpleet.py
 
 #Tokenisation
+
 4. NSPSegmentTorch.py
 
 #Training
+
 5. TrainBERT-Main.ipynb
